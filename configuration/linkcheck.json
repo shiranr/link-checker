@@ -2,6 +2,6 @@
   "exclude_links": [],
   "only_errors": true,
   "serial": false,
-  "cache_duration": "24h",
+  "cache_duration": "168h",
   "cache_output_path": "cache_store/cache"
 }

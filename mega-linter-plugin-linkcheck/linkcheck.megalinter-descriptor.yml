@@ -16,7 +16,8 @@ linters:
     cli_version_arg_name: "-version"
     cli_lint_fix_arg_name: "--megalinter-fix-flag" # Workaround for MegaLinter
     cli_lint_mode: list_of_files
-    lint_all_files: true
+    lint_all_files: false  # Set to false to only lint changed files
+    git_diff: "git diff --name-only HEAD^"  # Specify the Git diff command to get changed files
     cli_lint_errors_count: regex_sum
     cli_lint_errors_regex: "ERROR: ([0-9]+) links check failed, please check the logs"
     examples:
