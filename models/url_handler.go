@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/gocolly/colly"
+	"github.com/gocolly/colly/v2"
 	log "github.com/sirupsen/logrus"
 	"strings"
 )
