@@ -1,6 +1,6 @@
 module github.com/shiranr/linkcheck
 
-go 1.18
+go 1.22.2
 
 require (
 	github.com/gocolly/colly/v2 v2.1.0
