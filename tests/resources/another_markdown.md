@@ -15,7 +15,7 @@ http://bla.com
 # link-checker
 Parallel link check
 
-If you like variety, coding in many languages, using any available tech across our industry, digging in with our customers, hack fests, occasional travel, and telling the story of what you’ve done in [blog posts](https://www.microsoft.com/developerblog/) and at conferences, then come talk to us.
+If you like variety, coding in many languages, using any available tech across our industry, digging in with our customers, hack fests, occasional travel, and telling the story of what you’ve done in [blog posts](https://devblogs.microsoft.com/ise/) and at conferences, then come talk to us.
 [blog posts](linkcheck.json)
 
 [none existing](nla.go)
