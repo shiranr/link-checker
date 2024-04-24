@@ -11,10 +11,6 @@ import (
 	"time"
 )
 
-// TODO add tests.
-// TODO add workflow
-// TODO add support for link description [](link "")
-// TODO fix readme
 // TODO mock external server behavior
 func main() {
 	start := time.Now()
