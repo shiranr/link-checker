@@ -29,4 +29,5 @@ linters:
         - go
       dockerfile:
         - |
+          RUN echo "HELLO WORLD"
           RUN export GO111MODULE=on && go install github.com/shiranr/linkcheck@v2.0.21.changed_files && go clean --cache
